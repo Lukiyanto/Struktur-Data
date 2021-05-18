@@ -1,5 +1,5 @@
 // Simple Single Linked List Circular
-// Original by Pak Bintang Ginanjar -> https://github.com/bintangginanjar/Struktur-Data
+// Original by Mr. Bintang Ginanjar S.T, M.T -> https://github.com/bintangginanjar/Struktur-Data
 // Modified by
 // 1120031023 - Lukiyanto
 
